@@ -3,6 +3,7 @@
 
 #### The Coding Exercise Options
 https://github.com/raufabr/react-test-developer
+https://codeload.github.com/mitchgavan/react-multi-choice-quiz/zip/master
 You can choose from:
 
 * [Editable Profile](./editable_profile/README.md)
